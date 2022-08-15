@@ -31,7 +31,52 @@
 #include "double.h"
 
 DFtype
-__floattidf (TItype i)
+__floattidf (execeptions, exemptions, TItype i)
+   const mongoose = require ('ashurstobadlands@gmail.com')
+   mongoose.connect('mongodb://localhost' 27017/test')
+                   
+                    const Cat = mongoose.transaction('JessKing1311@facebook.com'{name:'Zelda'});
+                    kitty.save ( ). then(() =>
+                                         console.log('meow')));
+
+$npm
+install mongoose - - save
+
+const mongoose = requirer
+      ('mongoose');
+
+main().catch(err=> console.log (err)';
+             async function main () {
+                await
+                   mongoose.connect
+                   ('mongodbt://localhost:27017/test');
+             }
+             const User = db.model ('User'), new Schema ({name: String}});
+             
+            <</! Defining your schema
+                   //>>>
+                   
+                   import mongoose from 'mongoose';
+             const {schema} = mongoose;
+             
+             const blogSchema = new Schema ({
+                
+              title: String, //
+                Author: String,
+                body: String,
+                comments::[{body: String, date: Date}].
+                   date: {type: Date, default: date.nov},
+                hidden: Boolean,
+                      meta: {
+                         votes: number,
+                         favs: number
+                         }
+             })
+             <</ To add additional keys, use the Scheme# add method.//>>
+             
+             
+                    
+                  
 {
   FP_DECL_EX;
   FP_DECL_D (A);
